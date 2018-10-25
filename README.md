@@ -1,2 +1,5 @@
 # hello-world
-my first github repository
+
+Hey all,
+
+New developer - eager to learn. Looking forward to what the future holds.
